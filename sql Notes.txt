@@ -1,0 +1,44 @@
+DBMS->Database management System_RDBMS(Relational DBMS)
+Relational - Tables - >collection of m number oif 
+FBMS - File Based Management System -  
+
+SQL - Structured Query language
+
+MYSQL , Postgresql , SQL Server
+————————————————————————————
+How to show data base ?
+  
+Data Types:
+1.char - fixed length - char(10)
+2.varchar - variable length 
+3.text
+
+
+primary key  - cannot be null and cannot be duplicate
+candidate key
+
+DDL->Data Definition Language
+create,alter,drop
+DML->Data Manipulation Language
+insert , update,delete
+DQL->Data Query Language
+TCL->Transaction Control Language
+DCL->Data Control Language
+
+where clause
+between-range,in-randomly
+
+Starts with,ends with ,contains=>
+wild card operators : 
+like operator : 
+%,_
+starting with A -> A%
+ends with T->%T
+contains %n%
+position specific __i%
+
+Group by & having
+
+aggregate functions - min,max,count,sum,avg
+
+
